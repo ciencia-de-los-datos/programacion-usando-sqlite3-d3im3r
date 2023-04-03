@@ -40,3 +40,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 -- 
+select k0, c16 from tbl1 where c16 like k0 || '%'  
